@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-    base: "/friendsbook/",
+    base: "/social-media-next/",
 //    experimental: {
 //         reactCompiler: true,
 //         ppr: 'incremental'
