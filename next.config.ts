@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-    base: "/social-media-next/",
+     basePath: '/social-media-next',
+     assetPrefix: '/social-media-next',
 //    experimental: {
 //         reactCompiler: true,
 //         ppr: 'incremental'
