@@ -1,0 +1,12 @@
+npx create-next-app@latest .
+npm install babel-plugin-react-compiler
+npm install next@canary
+add in next.config
+    experimental: {
+        reactCompiler: true,
+        ppr: 'incremental'
+    },
+
+
+clerk.com
+
