@@ -79,7 +79,7 @@ export const storiesData = [
 
 export const postOption = [
   {
-    image: "/assets/addImage.png",
+    image: "/assets/addimage.png",
     name : "Photo"
   },
   {
@@ -87,7 +87,7 @@ export const postOption = [
     name : "Video"
   },
   {
-    image: "/assets/addEvent.png",
+    image: "/assets/addevent.png",
     name : "Event"
   },
   {
